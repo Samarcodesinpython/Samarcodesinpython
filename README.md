@@ -2,9 +2,9 @@
 - 👀 I’m interested in Ai/ML
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Machine Learning Projects
-- 📫 How to reach me Linked In
+- 📫 How to reach me:- Linked In
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+
 
 <!---
 Samarcodesinpython/Samarcodesinpython is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
