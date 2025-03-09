@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Samarcodesinpython
-- 👀 I’m interested in Ai/ML
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Machine Learning Projects
-- 📫 How to reach me:- Linked In
-- 😄 Pronouns: He/Him
-
+**"🚀 AI/ML Enthusiast | Competitive Programmer | Exploring DSA & Deep Learning  
+💻 Solving LeetCode problems, building AI projects, and sharing my journey  
+🔬 Currently working on AI research & innovative ML projects  
+📌 Follow along as I code in Python & C, tackling real-world problems!"**
 
 <!---
 Samarcodesinpython/Samarcodesinpython is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
