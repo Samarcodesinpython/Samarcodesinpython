@@ -1,10 +1,8 @@
+# 💫 About Me:
 **🚀 AI/ML Enthusiast | Competitive Programmer | Exploring DSA & Deep Learning  
 💻 Solving LeetCode problems, building AI projects, and sharing my journey  
 🔬 Currently working on AI research & innovative ML projects  
 📌 Follow along as I code in Python & C, tackling real-world problems!**
-
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
